@@ -1,0 +1,4 @@
+Error generating image: AxiosError: Request failed with status code 404
+Error generating image: DiscordAPIError[10062]: Unknown interaction
+Error generating image: DiscordAPIError[10062]: Unknown interaction
+Error generating image: Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.

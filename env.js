@@ -1,0 +1,1 @@
+export const { TOKEN: token, AUTOMATIC1111: automatic1111, NEGATIVE_PROMPT: negativePrompt, POSITIVE_PROMPT: positivePrompt } = process.env;
