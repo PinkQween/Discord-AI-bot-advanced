@@ -2,3 +2,39 @@ Error generating image: AxiosError: Request failed with status code 404
 Error generating image: DiscordAPIError[10062]: Unknown interaction
 Error generating image: DiscordAPIError[10062]: Unknown interaction
 Error generating image: Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.
+Error generating images: AxiosError: Request failed with status code 404
+Error generating image: AxiosError: Request failed with status code 404
+Error generating image: TypeError: saveToDatabase is not a function. (In 'saveToDatabase(prompt, imageBuffer, (err) => {
+          if (err)
+            throw err;
+          console.error("Error saving image to database:", err);
+          fs.writeFile("error.log", `Error saving image to database: ${err}\n`, { flag: "a" }, (err) => {
+            if (err)
+              throw err;
+            console.error("Error saving image to database:", err);
+          });
+        })', 'saveToDatabase' is undefined)
+Error generating image: ReferenceError: Can't find variable: err
+Error saving image to database: null
+Error saving image to database: null
+Error saving image to database: null
+Error saving image to database: null
+Error saving image to database: null
+Error saving image to database: null
+Error saving image to database: null
+Error saving image to database: null
+Error saving image to database: null
+Error saving image to database: null
+Error saving image to database: null
+Error saving image to database: null
+Error saving image to database: null
+Error saving image to database: null
+Error generating image: AxiosError: Request failed with status code 404
+Error generating image: AxiosError: Request failed with status code 404
+Error generating image: AxiosError: Request failed with status code 404
+Error generating image: AxiosError: Request failed with status code 404
+Error generating images: ReferenceError: Can't find variable: count
+Error generating images: ReferenceError: Can't find variable: count
+Error generating images: AxiosError: Request failed with status code 504
+Error generating image: AxiosError: Request failed with status code 504
+Error generating image: AxiosError: Request failed with status code 504
